@@ -1,0 +1,10 @@
+flutter_prueba
+Proyecto Micro Mercado/proyecto
+Proyecto Micro Mercado/*.exe
+Proyecto Micro Mercado/*.zip
+Proyecto Micro Mercado/*.lnk
+**/*.pyc
+**/__pycache__
+**/.venv
+**/.env
+**/*.pdf
