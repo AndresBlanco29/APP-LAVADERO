@@ -1,0 +1,36 @@
+==========================================
+                ZYNTRA POS                
+                  prueba                  
+             CIERRE DE TURNO              
+------------------------------------------
+Cierre #                                10
+Fecha                     2026-09-04 11:49
+Vendedor                     Deivi Almeida
+Usuario                              admin
+------------------------------------------
+Transacciones                            1
+Total ventas                      $ 21.000
+Estado                            CUADRADO
+------------------------------------------
+              MEDIOS DE PAGO              
+------------------------------------------
+                 EFECTIVO                 
+  Sistema                              $ 0
+  Declarado                            $ 0
+..........................................
+                  NEQUI                   
+  Sistema                              $ 0
+  Declarado                            $ 0
+..........................................
+                 DATAFONO                 
+  Sistema                         $ 21.000
+  Declarado                       $ 21.000
+..........................................
+Reclasificaciones                        0
+------------------------------------------
+            Adjuntar al dinero            
+              en caja fuerte              
+         Vendedor: Deivi Almeida          
+==========================================
+
+

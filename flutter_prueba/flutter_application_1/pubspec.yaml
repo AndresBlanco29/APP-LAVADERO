@@ -1,0 +1,54 @@
+name: flutter_application_1
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.1.0
+  intl: ^0.18.0
+  sqflite: ^2.3.0
+  fl_chart: ^0.66.0
+  path_provider: ^2.0.9
+  path: ^1.9.0
+  audioplayers: ^6.4.0
+  firebase_auth: ^4.17.4
+  firebase_core: ^2.16.0
+  image_picker: ^0.8.7+3
+  shared_preferences: ^2.0.15
+  flutter_animate: ^4.5.2
+  web_socket_channel: ^3.0.2
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - lib/imagenes/perfil.png
+    - lib/imagenes/dash.png
+    - lib/imagenes/cv.png
+    - lib/imagenes/ventas.png
+    - lib/imagenes/presupuesto.png
+    - lib/imagenes/inventario.png
+    - lib/imagenes/avatar.png
+    - lib/imagenes/cerrar.png
+    - lib/imagenes/calendario.png
+    - lib/imagenes/lider.png
+    - lib/imagenes/cuenta.png
+    - assets/sounds/notificacion.wav
+    - assets/sounds/caja.wav
+    - lib/imagenes/clave.png
+    - lib/imagenes/flecha_verde.png
+    - lib/imagenes/flecha_roja.png
+    
+
+
+

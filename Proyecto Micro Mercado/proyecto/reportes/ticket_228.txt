@@ -1,0 +1,28 @@
+==========================================
+                ZYNTRA POS                
+                  prueba                  
+                  prueba                  
+------------------------------------------
+Ticket                                 228
+Fecha                     02/09/2026 21:19
+Cajero                               admin
+------------------------------------------
+Producto / Cant                      Total
+------------------------------------------
+Arroz Diana 1kg (Unidad)
+10.0 x $ 5.600                    $ 56.000
+Leche Alqueria 1L (Unidad)
+5.0 x $ 4.200                     $ 21.000
+------------------------------------------
+TOTAL                             $ 77.000
+       Incluye recargo datafono 6%        
+Precio real                       $ 73.000
+Efectivo                          $ 50.000
+Tarjeta Débito / Crédito          $ 27.000
+CAMBIO                                 $ 0
+==========================================
+          Gracias por su compra           
+           Conserve este ticket           
+==========================================
+
+

@@ -1,0 +1,7 @@
+fastapi==0.115.12
+uvicorn[standard]==0.34.2
+hypercorn==0.17.3
+pymysql==1.1.1
+cryptography==50.0.2
+python-dotenv==1.1.0
+tzdata==2025.2

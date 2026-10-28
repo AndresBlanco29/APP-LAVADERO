@@ -1,0 +1,38 @@
+==========================================
+                ZYNTRA POS                
+                  prueba                  
+                  prueba                  
+------------------------------------------
+Ticket                                 224
+Fecha                     20/08/2026 20:15
+Cajero                               admin
+------------------------------------------
+Producto / Cant                      Total
+------------------------------------------
+Aceite Premier 900ml (Unidad)
+10.0 x $ 9,758                    $ 97,580
+Cafe Aguila Roja 250g (Unidad)
+10.0 x $ 7,900                    $ 79,000
+Cereal Kelloggs Corn Flakes 250g (Unidad)
+10.0 x $ 6,200                    $ 62,000
+Huevos AA x30 (Unidad)
+25.0 x $ 13,500                  $ 337,500
+Leche Alqueria 1L (Unidad)
+10.0 x $ 4,000                    $ 40,000
+Salsa de Tomate Fruco 400g (Unidad)
+30.0 x $ 4,500                   $ 135,000
+Frijol Rojo 500g (Unidad)
+10.0 x $ 3,675                    $ 36,750
+Papel Higienico Familia x4 (Unidad)
+30.0 x $ 8,200                   $ 246,000
+------------------------------------------
+TOTAL                          $ 1,033,830
+Efectivo                          $ 33,830
+Nequi                          $ 1,000,000
+CAMBIO                                 $ 0
+==========================================
+          Gracias por su compra           
+           Conserve este ticket           
+==========================================
+
+

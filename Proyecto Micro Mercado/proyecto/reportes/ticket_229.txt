@@ -1,0 +1,26 @@
+==========================================
+                ZYNTRA POS                
+                  prueba                  
+                  prueba                  
+------------------------------------------
+Ticket                                 229
+Fecha                     2026-09-03 17:55
+Cajero     Douglas Antony Salazar Martínez
+------------------------------------------
+Producto / Cant                      Valor
+------------------------------------------
+Arroz Diana 1kg (Unidad)
+10.0 x $ 5.300                    $ 53.000
+Leche Alqueria 1L (Unidad)
+10.0 x $ 4.000                    $ 40.000
+------------------------------------------
+TOTAL                             $ 93.000
+Efectivo                          $ 40.000
+Transferencia                     $ 43.000
+Nequi                             $ 10.000
+==========================================
+          Gracias por su compra           
+           Conserve este ticket           
+==========================================
+
+

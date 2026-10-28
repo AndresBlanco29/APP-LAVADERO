@@ -1,0 +1,8 @@
+{
+  "terminal.integrated.env.windows": {
+    "GRADLE_USER_HOME": "D:\\dev-cache\\gradle",
+    "PUB_CACHE": "D:\\dev-cache\\pub-cache",
+    "TEMP": "D:\\dev-cache\\temp",
+    "TMP": "D:\\dev-cache\\temp"
+  }
+}

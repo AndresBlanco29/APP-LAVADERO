@@ -1,0 +1,33 @@
+==========================================
+                ZYNTRA POS                
+                  prueba                  
+                  prueba                  
+------------------------------------------
+Ticket                                 223
+Fecha                     20/08/2026 19:31
+Cajero                               admin
+------------------------------------------
+Producto / Cant                      Total
+------------------------------------------
+Huevos AA x30 (Unidad)
+10.0 x $ 13,500                  $ 135,000
+Leche Alqueria 1L (Unidad)
+5.0 x $ 4,000                     $ 20,000
+Sal Refisal 500g (Unidad)
+2.0 x $ 2,300                      $ 4,600
+Frijol Rojo 500g (Unidad)
+2.0 x $ 3,675                      $ 7,350
+Arroz Diana 1kg (Unidad)
+6.0 x $ 5,300                     $ 31,800
+------------------------------------------
+TOTAL                            $ 198,750
+Efectivo                          $ 50,000
+Nequi                             $ 30,000
+Transferencia                    $ 118,750
+CAMBIO                                 $ 0
+==========================================
+          Gracias por su compra           
+           Conserve este ticket           
+==========================================
+
+

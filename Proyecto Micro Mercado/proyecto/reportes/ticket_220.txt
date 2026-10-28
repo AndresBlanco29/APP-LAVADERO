@@ -1,0 +1,28 @@
+==========================================
+                ZYNTRA POS                
+                  prueba                  
+                  prueba                  
+------------------------------------------
+Ticket                                 220
+Fecha                     20/08/2026 08:43
+Cajero                               admin
+------------------------------------------
+Cliente                   Alba Rubi Mendez
+Producto / Cant                      Total
+------------------------------------------
+Arroz Diana 1kg
+1 x $ 5,300                        $ 5,300
+Huevos AA x30
+10 x $ 13,500                    $ 135,000
+------------------------------------------
+TOTAL                            $ 140,300
+Efectivo                          $ 50,000
+Crédito                           $ 90,300
+Puntos ganados                          50
+CAMBIO                                 $ 0
+==========================================
+          Gracias por su compra           
+           Conserve este ticket           
+==========================================
+
+
